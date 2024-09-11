@@ -7,3 +7,6 @@
 [submodule "Hovercraft/hovercraft"]
 	path = Hovercraft/hovercraft
 	url = https://github.com/carlhjal/hovercraft
+[submodule "Digital clock/digital-clock"]
+	path = Digital clock/digital-clock
+	url = https://github.com/carlhjal/digital-clock
