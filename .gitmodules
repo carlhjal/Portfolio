@@ -10,3 +10,6 @@
 [submodule "Digital clock/digital-clock"]
 	path = Digital clock/digital-clock
 	url = https://github.com/carlhjal/digital-clock
+[submodule "Random Projects/Random-projects"]
+	path = Random Projects/Random-projects
+	url = https://github.com/carlhjal/Random-projects
