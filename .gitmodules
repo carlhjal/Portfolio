@@ -1,0 +1,3 @@
+[submodule "Hydra/Hydra"]
+	path = Hydra/Hydra
+	url = https://github.com/carlhjal/Hydra
