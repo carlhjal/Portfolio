@@ -4,3 +4,6 @@
 [submodule "Orbital propagator/Orbital-propagator"]
 	path = Orbital propagator/Orbital-propagator
 	url = https://github.com/carlhjal/Orbital-propagator
+[submodule "Hovercraft/hovercraft"]
+	path = Hovercraft/hovercraft
+	url = https://github.com/carlhjal/hovercraft
